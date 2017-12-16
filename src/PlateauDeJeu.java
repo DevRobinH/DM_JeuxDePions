@@ -5,6 +5,8 @@ public class PlateauDeJeu {
 		// TODO Auto-generated method stub
 		
 		//Ceci est un message de test
+		
+		// Autre test
 
 	}
 
